@@ -1,0 +1,187 @@
+h1:hover { 
+    text-shadow: 0 1px 0 rgb(29, 28, 28), 0 2px 0 #ccc, 
+                 0 3px 0 #ccc, 0 4px 0 #ccc, 
+                 0 5px 0 #ccc, 0 6px 0 #ccc, 
+                 0 7px 0 #ccc, 0 8px 0 #ccc, 
+                 0 9px 0 #ccc, 0 10px 0 #ccc, 
+                 0 11px 0 #ccc, 0 12px 0 #ccc, 
+                 0 20px 30px rgba(0, 0, 0, 0.5); 
+} 
+*
+{
+    background-color:yellow;
+}
+*:hover
+{
+    background: coral;
+}
+h1
+{
+    background-color: orange;
+    text-align: center;    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2
+{
+    background-color: blue;
+     left: 50px;
+     width: 200px;
+
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+#rgba
+{
+        
+    font-size: 32px;
+    font-style: italic;
+    background-color: burlywood;
+    width: 250px;
+    margin-left: 1000px;
+    margin-top: px;
+
+}
+#harru
+{
+    text-align:center;
+    font-size: 35px;
+    margin-top:-450px;
+    width: 250px;
+    margin-left: 550px;
+    font-family :initial;
+}
+.circle
+{
+    font-size: 25px;
+    background-color:burlywood;
+    width: 250px;
+    height:95%;
+    margin-top: 25px;
+    margin-left: 1000px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
+.circle:hover
+{
+    background-color:pink;
+    
+   border-radius: 20px;
+}
+
+.circle1
+{
+    
+    background-color: crimson;
+    font-size: 30px;
+    margin-left: 600px;
+    text-align: center;
+    width: 250px;
+    height: 95%;
+    margin-top: 40px;
+    margin-left: 550px;
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    transition:  background-color 1s, border radius 5s;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
+
+
+.circle1:hover
+{
+    background-color: darkmagenta;
+   border-radius: 50px;
+}
+
+#strength
+{
+    width:200px;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: 2s0px;
+    background-color: blueviolet;
+    text-decoration: underline black;
+    
+}
+#weakness
+{
+    width:200px;
+    background-color: lightgreen;
+    
+    font-size: 30px;
+    margin-left: 550px;
+    text-decoration: underline black;
+    
+}
+#personal
+{
+    
+    width:200px;
+    background-color:violet;
+    font-size: 30px;
+    margin-left: 1000px;
+    margin-top: 50px;
+    text-decoration: underline black;
+}
+#s
+{
+ background-color: blueviolet;
+    font-size: 30px;
+    margin-left: 100px;
+    margin-top: -120px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
+#w
+{
+    background-color: lightgreen;
+    font-size: 30px;
+    margin-left:500px;
+    margin-top: -100px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
+#p
+{
+    background-color:pink ;   
+    font-size: 30px;
+    margin-left:1000px;
+    margin-top: 0px;   
+    width: 250px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
+#x
+{
+    margin-top: -4000px;
+    margin-bottom: -7000x;
+    margin-left: 80px;
+    
+    border-width: 5px;
+    border-color:black;
+    border-style: solid;
+    
+    transition:  all 1s 1s;
+    box-shadow: -10px -10px 20px black;
+}
